@@ -13,5 +13,4 @@ To run:
 	in terminal : python GUI_Main.py
 	
 Copyright (c) 2014 WiNG NITK - Sayan Paul, Jay Priyadarshi, Sasank Channapradaga, Spriha Awinpushpam, Mohit P. Tahiliani
--------------------------------------------------------------------------------------------------------------------------
 
