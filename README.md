@@ -1,9 +1,9 @@
 APP-Tool
 ========
 
-A ns2 tracefile Analyser.  
+Automated Post Processing (APP) Tool is a ns2 tracefile Analyser.  
 
-The application requires a Linux based environment and folowing libraries:
+The application requires a Linux based environment and following libraries:
 
 	Gtk+ for python: python-gi
 	
