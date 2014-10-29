@@ -10,8 +10,6 @@ The application requires a Linux based environment and following libraries:
 	MatplotLib Library: python-matplotlib
 
 To run:
-	
-	Go in the "Final" folder
 
 	click GUI_Main.py
 	
