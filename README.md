@@ -10,6 +10,8 @@ The application requires a Linux based environment and following libraries:
 	MatplotLib Library: python-matplotlib
 
 To run:
+	
+	Go in the "Final" folder
 
 	click GUI_Main.py
 	
@@ -18,5 +20,5 @@ To run:
 	in terminal : python GUI_Main.py
 	
 	
-Copyright (c) 2014 WiNG NITK - Sayan Paul, Jay Priyadarshi, Sasank Channapradaga, Spriha Awinpushpam, Mohit P. Tahiliani
+Copyright (c) 2014 NITK WiNG - Sayan Paul, Jay Priyadarshi, Sasank Channapradaga, Spriha Awinpushpam, Mohit P. Tahiliani
 
